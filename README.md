@@ -9,6 +9,8 @@ https://robertsspaceindustries.com/community-hub
 # starcitizen-loupedecker
 Extend your Keyboard with this easy-to-use loupedeck configuration for Star Citizen. Currently only created for Loupedeck Live S. More Details in README
 
+![image](https://github.com/makerlu/starcitizen-loupedecker/blob/main/starcitizen-loupedecker.jpg)
+
 ## Early version notice
 This is a very early version of the starcitizen-loupedecker for Live S
 Try it and provide me feedback, what could be improved, is missing or have a bad haptics.
