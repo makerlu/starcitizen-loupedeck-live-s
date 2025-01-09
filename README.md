@@ -3,7 +3,7 @@ All content on this site not authored by its host or users are property of their
 Star Citizen®, Roberts Space Industries® and Cloud Imperium® are registered trademarks of Cloud Imperium Rights LLC.
 https://robertsspaceindustries.com/
 
-This is a MADE BY THE COMMUNITY fanproject, release under GNU 3.0 - Please see also license file
+This is a MADE BY THE COMMUNITY fanproject, release under GPL 3.0 - Please see also license file
 https://robertsspaceindustries.com/community-hub
 
 # starcitizen-loupedecker
@@ -26,6 +26,8 @@ Hardware Button setting:
 - Lower right button to switch between screens for this workplace
 - Upper right button to get back to HOME screen
 - Middle right button for "USE" key
+
+More details coming soon
 
 
 ### Subscription
