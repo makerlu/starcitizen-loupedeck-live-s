@@ -26,3 +26,9 @@ Hardware Button setting:
 - Lower right button to switch between screens for this workplace
 - Upper right button to get back to HOME screen
 - Middle right button for "USE" key
+
+
+### Subscription
+You don't have a subscription?
+I would be happy if you use my referral code for Star Citizen:
+https://robertsspaceindustries.com/enlist?referral=STAR-DQQ3-VNMC
